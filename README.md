@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Greggot
+- 👀 I’m interested in Embedded Systems and Robotics
+- 🌱 I’m currently learning C++/C languages
+- 📫 tg: @greggoth
